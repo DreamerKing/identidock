@@ -1,4 +1,3 @@
-### auto build identidock
-   
+### auto build identidock  
 
 build identidock images
